@@ -1,0 +1,106 @@
+﻿<Window x:Class="EMarket.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EMarket"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="431.393" MinWidth="431.393" MaxWidth="431.393" MinHeight="450" MaxHeight="450">
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="17*" />
+            <ColumnDefinition Width="26*"/>
+            <ColumnDefinition Width="340*"/>
+            <ColumnDefinition Width="42*"/>
+        </Grid.ColumnDefinitions>
+
+        <Canvas Grid.Column="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.ColumnSpan="2" Margin="25.4,0,0.4,0">
+            <ListBox Name="ProductListBox" Height="410" Width="339" HorizontalContentAlignment="Stretch" BorderThickness="1 0 1 0" ItemsSource="{Binding Products}" MouseDoubleClick ="ProductListBox_MouseDoubleClick" ScrollViewer.CanContentScroll="False" ScrollViewer.VerticalScrollBarVisibility="Hidden" ScrollViewer.HorizontalScrollBarVisibility="Hidden">
+
+                <ListBox.ItemContainerStyle>
+                    <Style TargetType="ListBoxItem">
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="IsSelected" Value="True"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </ListBox.ItemContainerStyle>
+
+                <ListBox.BorderBrush>
+                    <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlColorKey}}"/>
+                </ListBox.BorderBrush>
+
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition Height="5*"/>
+                            </Grid.RowDefinitions>
+
+
+                            <Image Grid.Row="0" Height="250" Width="250" Source="{Binding ProductPic}">
+
+                            </Image>
+
+
+                            <StackPanel Grid.Row="1" Orientation="Vertical" Margin="0,20,0,0">
+                                <Label Content="{Binding ProductName}" Margin="10,0,0,0" FontWeight="Bold" HorizontalAlignment="Center" FontSize="16" />
+                                <Label Content="{Binding Info}" HorizontalAlignment="Center" >
+                                    <Label.Foreground>
+                                        <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.AppWorkspaceColorKey}}"/>
+                                    </Label.Foreground>
+                                </Label>
+                                <Label Content="{Binding Price}" HorizontalAlignment="Center" FontSize="24" FontWeight="Bold" Margin="0,10,0,0" />
+
+
+                                <Button Content="Add to chart" Width="150" Height="30" Background="#FFFECB70" Foreground="White" BorderThickness="0" FontWeight="Bold" FontSize="16" Click="AddToChartButton_click" HorizontalAlignment="Left">
+                                    <Button.Resources>
+                                        <Style TargetType="Border">
+                                            <Setter Property="CornerRadius" Value="8"/>
+                                        </Style>
+                                    </Button.Resources>
+                                </Button>
+                            </StackPanel>
+
+                        </Grid>
+
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </Canvas>
+
+
+        <Button Content="+" Grid.Column="3" HorizontalAlignment="Left" Margin="9.6,10,0,0" VerticalAlignment="Top" Width="23" Height="104" Click="Button_Click" BorderThickness="0" Background="#FFFECB70" FontSize="24" Foreground="White" FontWeight="Bold" Name ="AddProductButton">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="8"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+
+        <Button  HorizontalAlignment="Left" Margin="5,10,0,0" VerticalAlignment="Top" Width="32" Height="33" BorderThickness="0" Grid.ColumnSpan="2" Name="ObserveChartButton" Click="ObserveChartButton_Click">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.Background>
+                <ImageBrush ImageSource="basket.png"/>
+            </Button.Background>
+        </Button>
+
+
+
+
+
+    </Grid>
+
+
+
+
+
+</Window>

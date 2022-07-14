@@ -1,0 +1,69 @@
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\obj\Debug\EMarket.csproj.AssemblyReference.cache
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\obj\Debug\MainWindow.g.cs
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\obj\Debug\App.g.cs
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\obj\Debug\EMarket_MarkupCompile.cache
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\obj\Debug\EMarket_MarkupCompile.lref
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\bin\Debug\EMarket.exe.config
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\bin\Debug\EMarket.exe
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\bin\Debug\EMarket.pdb
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\obj\Debug\MainWindow.baml
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\obj\Debug\EMarket.g.resources
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\obj\Debug\EMarket.Properties.Resources.resources
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\obj\Debug\EMarket.csproj.GenerateResource.cache
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\obj\Debug\EMarket.csproj.CoreCompileInputs.cache
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\obj\Debug\EMarket.exe
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\obj\Debug\EMarket.pdb
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\bin\Debug\Ookii.Dialogs.Wpf.dll
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\bin\Debug\Ookii.Dialogs.Wpf.pdb
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\bin\Debug\Ookii.Dialogs.Wpf.xml
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\obj\Debug\AddProductWindow.g.cs
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\obj\Debug\AddProductWindow.baml
+C:\Users\Qara_nj17\source\repos\EMarket\EMarket\obj\Debug\EMarket.csproj.CopyComplete
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\bin\Debug\EMarket.exe.config
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\bin\Debug\EMarket.exe
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\bin\Debug\EMarket.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\bin\Debug\Ookii.Dialogs.Wpf.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\bin\Debug\Ookii.Dialogs.Wpf.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\bin\Debug\Ookii.Dialogs.Wpf.xml
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\obj\Debug\EMarket.csproj.AssemblyReference.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\obj\Debug\AddProductWindow.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\obj\Debug\MainWindow.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\obj\Debug\App.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\obj\Debug\EMarket_MarkupCompile.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\obj\Debug\EMarket_MarkupCompile.lref
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\obj\Debug\AddProductWindow.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\obj\Debug\MainWindow.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\obj\Debug\EMarket.g.resources
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\obj\Debug\EMarket.Properties.Resources.resources
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\obj\Debug\EMarket.csproj.GenerateResource.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\obj\Debug\EMarket.csproj.CoreCompileInputs.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\obj\Debug\EMarket.csproj.CopyComplete
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\obj\Debug\EMarket.exe
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\obj\Debug\EMarket.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\obj\Debug\EMarket.csproj.Fody.CopyLocal.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\obj\Debug\ChartWindow.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\EMarket\EMarket\obj\Debug\ChartWindow.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\bin\Debug\EMarket.exe.config
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\bin\Debug\EMarket.exe
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\bin\Debug\EMarket.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\bin\Debug\Ookii.Dialogs.Wpf.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\bin\Debug\Ookii.Dialogs.Wpf.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\bin\Debug\Ookii.Dialogs.Wpf.xml
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\obj\Debug\EMarket.csproj.AssemblyReference.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\obj\Debug\AddProductWindow.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\obj\Debug\ChartWindow.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\obj\Debug\MainWindow.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\obj\Debug\App.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\obj\Debug\EMarket_MarkupCompile.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\obj\Debug\EMarket_MarkupCompile.lref
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\obj\Debug\AddProductWindow.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\obj\Debug\ChartWindow.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\obj\Debug\MainWindow.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\obj\Debug\EMarket.g.resources
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\obj\Debug\EMarket.Properties.Resources.resources
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\obj\Debug\EMarket.csproj.GenerateResource.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\obj\Debug\EMarket.csproj.CoreCompileInputs.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\obj\Debug\EMarket.csproj.Fody.CopyLocal.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\obj\Debug\EMarket.csproj.CopyComplete
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\obj\Debug\EMarket.exe
+C:\Users\tnqar\OneDrive\Рабочий стол\WPF\EMarket(H)\EMarket\obj\Debug\EMarket.pdb
